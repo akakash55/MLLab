@@ -1,0 +1,1 @@
+df.set_index('State', inplace=True) #Row ka name 0,1,2 se states ho jayega
